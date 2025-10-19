@@ -1,22 +1,24 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/OpenUwU/.github/refs/heads/main/header.jpg" 
-       alt="OpenUwU Project - Building the future of cute tech." 
+       alt="OpenUwU Project - Building the future of innovative technology" 
        width="100%"/>
 </p>
 
 <div align="center">
 
-# 💖 Hey there! 👋 Welcome to **OpenUwU**
+# OpenUwU
 
-### We craft **powerful**, **elegant**, and **delightful** open-source software.
+### Building Cute, elegant, and delightful open-source software
 
 Founded by [@bre4d777](https://github.com/bre4d777)
+
+[![Discord](https://img.shields.io/badge/Join_Our_Community-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/zqxWVH3CvG)
 
 </div>
 
 ---
 
-## 🛠️ Core Technologies & Tools
+## 🛠️ Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
@@ -36,42 +38,58 @@ Founded by [@bre4d777](https://github.com/bre4d777)
 
 ---
 
-## ✨ Our Creations
+## 📦 Projects
 
-A glimpse into what we're building with love and passion 💫
+### 🎵 Yukihana — Discord Music Bot
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🎵 Yukihana — Discord Music Bot</h3>
-      <p>
-        A versatile Discord bot designed for a rich music playback and utility experience.<br/>
-        Built with <b>Discord.js</b>, featuring advanced sharding, Spotify integration, audio filters, playlist management, and premium support.
-      </p>
-      <a href="https://github.com/OpenUwU/Yukihana">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>⚙️ Asanagi — Database ORM</h3>
-      <p>
-        A modern, lightweight, and developer-friendly ORM built for performance and simplicity.<br/>
-        Asanagi aims to streamline database interactions with an elegant API.
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+A comprehensive Discord bot engineered for premium music playback and utility functionality. Yukihana delivers a seamless audio experience with enterprise-grade features and exceptional performance.
+
+**Key Features:**
+- Advanced sharding architecture for scalability
+- Spotify integration with playlist synchronization
+- Professional-grade audio filters and equalization
+- Comprehensive playlist management system
+- Premium tier support with enhanced capabilities
+
+<p>
+  <a href="https://github.com/OpenUwU/Yukihana">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Active"/>
+</p>
 
 ---
 
-## 💬 Let's Connect!
+### ⚙️ Asanagi — Modern Database ORM
+
+A lightweight, high-performance Object-Relational Mapping library designed with developer experience at its core. Asanagi provides an intuitive and type-safe interface for database operations, streamlining data layer architecture.
+
+**Development Goals:**
+- Elegant and expressive query builder API
+- Full TypeScript support with comprehensive type inference
+- Multi-database compatibility layer
+- Optimized query performance and connection pooling
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge" alt="In Development"/>
+</p>
+
+---
+
+## 🤝 Community
+
+We believe in the power of open collaboration. Join our growing community to contribute, discuss ideas, and stay informed about the latest developments.
 
 <p align="center">
-  Join our community to chat, collaborate, and stay updated!<br/><br/>
   <a href="https://discord.gg/zqxWVH3CvG">
-    <img src="https://img.shields.io/badge/Join_Us_on_Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Join us on Discord"/>
+    <img src="https://img.shields.io/badge/Join_Discord_Community-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Join Discord Community"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+
+**OpenUwU** 
+
+</div>
