@@ -60,7 +60,7 @@ A comprehensive Discord bot engineered for premium music playback and utility fu
 
 ---
 
-### ⚙️ Asanagi — Modern Database ORM
+### ⚙️ Rinari — Modern Database ORM
 
 A lightweight, high-performance Object-Relational Mapping library designed with developer experience at its core. Asanagi provides an intuitive and type-safe interface for database operations, streamlining data layer architecture.
 
