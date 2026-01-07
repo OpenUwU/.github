@@ -60,7 +60,7 @@ A comprehensive Discord bot engineered for premium music playback and utility fu
 
 ---
 
-### 🎨 UwU Snippets — Beautiful Code Snippets & Design Tools
+### 🎨OnyxUi-snippets & Design Tools
 
 A modern web application for creating stunning code snippets, custom icons, and dynamic color systems. Built with React, TypeScript, and Tailwind CSS, featuring perceptually uniform OKLCH color spaces.
 
