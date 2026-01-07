@@ -60,18 +60,25 @@ A comprehensive Discord bot engineered for premium music playback and utility fu
 
 ---
 
-### ⚙️ Rinari — Modern Database ORM
+### 🎨 UwU Snippets — Beautiful Code Snippets & Design Tools
 
-A lightweight, high-performance Object-Relational Mapping library designed with developer experience at its core. Asanagi provides an intuitive and type-safe interface for database operations, streamlining data layer architecture.
+A modern web application for creating stunning code snippets, custom icons, and dynamic color systems. Built with React, TypeScript, and Tailwind CSS, featuring perceptually uniform OKLCH color spaces.
 
-**Development Goals:**
-- Elegant and expressive query builder API
-- Full TypeScript support with comprehensive type inference
-- Multi-database compatibility layer
-- Optimized query performance and connection pooling
+**Key Features:**
+- Live code editor with 6 beautiful themes and syntax highlighting
+- 800+ searchable icons from Lucide React with full customization
+- Dynamic color palette generator using OKLCH color space
+- Export as PNG or copy to clipboard
+- Real-time preview with customizable backgrounds and styling
 
 <p>
-  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge" alt="In Development"/>
+  <a href="https://github.com/OpenUwU/UwUSnippet">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+  <a href="https://snippets.uwuify.space/">
+    <img src="https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Active"/>
 </p>
 
 ---
